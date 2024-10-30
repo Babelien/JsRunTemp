@@ -12,7 +12,7 @@ $ pip install "fastapi[standard]"
 
 </div>
 
-**Run Server**:
+## Run Server
 <div class="termy">
 
 ```console
