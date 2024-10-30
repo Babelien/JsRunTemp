@@ -17,12 +17,6 @@ $ pip install "fastapi[standard]"
 
 ```console
 $ JsRunTemp\boot.bat
-INFO:     Will watch for changes in these directories: ['C:\\Users\\okabe\\Documents\\JsRunTemp']
-INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [336] using WatchFiles
-INFO:     Started server process [23136]
-INFO:     Waiting for application startup.
-INFO:     Application startup complete.
 ```
 
 </div>
